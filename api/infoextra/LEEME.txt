@@ -1,0 +1,16 @@
+
+TEORIA 
+mongodb es la bd 
+
+mongoAtlas seria la bd en la nube 
+
+mongoCompass seria el entonrno de ejecucion o IDE  de mongoDB en nuestra pc
+
+Recordar que mongo se puede ejecutar como shell y no ncesita usar mongo compass ni mongo atlas en la nube
+
+para instalr mmongo  link https://www.mongodb.com/try/download/community
+
+# instalar la version 5 ya que la 6 trae errores 
+
+luego ir a la carpeta de instalacion y ejecutar primero el server mongod.exe 
+ luedo de estar ejecutado puede abrir la shell de mongo.exe y ya usar comandos de mongodb 
